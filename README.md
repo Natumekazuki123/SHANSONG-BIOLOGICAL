@@ -11,7 +11,7 @@
 <body>
 
                 <p><a href="https://shansongpro.com">Company website</a></p>
-                <p><a href="https://w.afbcs.cn/KnRpmp">PRODUCT BROCHURE</a></p>
+                <p><a href="https://maifile.cn/est/a3267048544823/pdf">PRODUCT BROCHURE</a></p>
 
 </body>
 
