@@ -10,8 +10,8 @@
 
 <body>
 
-                <p><a href="https://shansongpro.com">Company website</a></p>
-                <p><a href="https://maifile.cn/est/a3267048544823/pdf">PRODUCT BROCHURE</a></p>
+                <b><p><a href="https://shansongpro.com">Company website</a></b></p>
+                <b><p><a href="https://maifile.cn/est/a3267048544823/pdf">PRODUCT BROCHURE</a></b></p>
 
 </body>
 
